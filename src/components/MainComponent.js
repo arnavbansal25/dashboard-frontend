@@ -223,7 +223,7 @@ function MainComponent() {
           <div style={{ marginTop: "50px" }}>
             {selectedClient && selectedDate && selectedHost ? (
               <span>
-                This Line graph represents the information about usage
+                These Line graphs represents the information about usage
                 statistics of individual applications throughout a day for
                 selected CLIENT and DATE.
               </span>
